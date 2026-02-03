@@ -23,7 +23,7 @@ int main() {
         p[i].prestado = false;
     }
 
-    p[1].prestado = true; // ejemplo
+    p[1].prestado = true; 
 
     ofstream prestados("LibrosPrestados.txt");
     ofstream stock("LibrosEnStock.txt");
@@ -41,3 +41,4 @@ int main() {
 
     return 0;
 }
+
