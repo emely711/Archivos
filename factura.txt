@@ -1,0 +1,6 @@
+Detalle: gfg
+Cantidad: 2
+Valor Unitario: 34
+Subtotal: 68
+IVA: 8.16
+Total a pagar: 76.16
